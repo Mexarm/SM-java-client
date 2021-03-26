@@ -1,4 +1,4 @@
-# swagger-java-client
+# Scrum Metrics API swagger-java-client
 
 Scrum Metrics API
 - API version: 1.3.2
